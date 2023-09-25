@@ -26,25 +26,25 @@ namespace MultiNodes
 			})]
 		public static Dictionary<string, DSCore.Color> MMICollores()
 			{
-			DSCore.Color MMI000 = DSCore.Color.ByARGB(75, 75, 75);
-			DSCore.Color MMI100 = DSCore.Color.ByARGB(155, 155, 155);
-			DSCore.Color MMI125 = DSCore.Color.ByARGB(125, 125, 125);
-			DSCore.Color MMI150 = DSCore.Color.ByARGB(125, 125, 125);
-			DSCore.Color MMI175 = DSCore.Color.ByARGB(125, 125, 125);
-			DSCore.Color MMI200 = DSCore.Color.ByARGB(125, 125, 125);
-			DSCore.Color MMI225 = DSCore.Color.ByARGB(125, 125, 125);
-			DSCore.Color MMI250 = DSCore.Color.ByARGB(125, 125, 125);
-			DSCore.Color MMI275 = DSCore.Color.ByARGB(125, 125, 125);
-			DSCore.Color MMI300 = DSCore.Color.ByARGB(125, 125, 125);
-			DSCore.Color MMI325 = DSCore.Color.ByARGB(125, 125, 125);
-			DSCore.Color MMI350 = DSCore.Color.ByARGB(125, 125, 125);
-			DSCore.Color MMI375 = DSCore.Color.ByARGB(125, 125, 125);
-			DSCore.Color MMI400 = DSCore.Color.ByARGB(125, 125, 125);
-			DSCore.Color MMI425 = DSCore.Color.ByARGB(125, 125, 125);
-			DSCore.Color MMI450 = DSCore.Color.ByARGB(125, 125, 125);
-			DSCore.Color MMI475 = DSCore.Color.ByARGB(125, 125, 125);
-			DSCore.Color MMI500 = DSCore.Color.ByARGB(125, 125, 125);
-			DSCore.Color MMI600 = DSCore.Color.ByARGB(125, 125, 125);
+			DSCore.Color MMI000 = DSCore.Color.ByARGB(215, 50, 150);
+			DSCore.Color MMI100 = DSCore.Color.ByARGB(190, 40, 35);
+			DSCore.Color MMI125 = DSCore.Color.ByARGB(210, 75, 70);
+			DSCore.Color MMI150 = DSCore.Color.ByARGB(225, 120, 115);
+			DSCore.Color MMI175 = DSCore.Color.ByARGB(240, 170, 170);
+			DSCore.Color MMI200 = DSCore.Color.ByARGB(230, 150, 55 );
+			DSCore.Color MMI225 = DSCore.Color.ByARGB(235, 175, 100);
+			DSCore.Color MMI250 = DSCore.Color.ByARGB(240, 200, 140);
+			DSCore.Color MMI275 = DSCore.Color.ByARGB(245, 230, 215);
+			DSCore.Color MMI300 = DSCore.Color.ByARGB(250, 240,80);
+			DSCore.Color MMI325 = DSCore.Color.ByARGB(215, 205, 65);
+			DSCore.Color MMI350 = DSCore.Color.ByARGB(185, 175, 60);
+			DSCore.Color MMI375 = DSCore.Color.ByARGB(150, 150, 50);
+			DSCore.Color MMI400 = DSCore.Color.ByARGB(55, 130, 70);
+			DSCore.Color MMI425 = DSCore.Color.ByARGB(75, 170, 90);
+			DSCore.Color MMI450 = DSCore.Color.ByARGB(100, 195, 125);
+			DSCore.Color MMI475 = DSCore.Color.ByARGB(155, 215, 165);
+			DSCore.Color MMI500 = DSCore.Color.ByARGB(30, 70, 175);
+			DSCore.Color MMI600 = DSCore.Color.ByARGB(175, 50, 205);
 
 			return new Dictionary<string, DSCore.Color>
 			{
