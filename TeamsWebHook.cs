@@ -8,16 +8,8 @@ namespace MultiNodes
 	{
 	public class TeamsMessenger
 		{
-		
-		private readonly string webhookUrl;
 
-		public TeamsMessenger(string webhookUrl)
-			{
-			
-			this.webhookUrl = webhookUrl;
-			}
-
-		//[IsVisibleInDynamoLibrary(true)]
+		private TeamsMessenger () { }
 		public static async Task SendTeamsMessage(string webhookUrl, string message)
 			{
 			using (HttpClient client = new HttpClient())
